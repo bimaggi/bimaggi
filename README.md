@@ -1,5 +1,5 @@
 ## Olá, eu sou a Bimaggi! ( Marcia B Oliveira )
-#### Sou estudante de desenvolvimento web<br>Autora do livro "Florir por fios de poesia" e criadora do Site "Por fios de Poesia"
+### Sou estudante de desenvolvimento web<br>Autora do livro "Florir por fios de poesia" e criadora do Site "Por fios de Poesia"
 
 <div align="center">
   <a href="https://github.com/bimaggi">
